@@ -93,3 +93,11 @@ git push
 NOTE: When this gets put into the final project, it will likely be blurry because it's so small. I think these docs should help:
 https://developer.mozilla.org/en-US/docs/Games/Techniques/Crisp_pixel_art_look
 
+# Design
+
+class Sprite:
+  constructor(img, w, h, expansion_zone)
+
+class Component:
+  constructor(sprite, w)
+

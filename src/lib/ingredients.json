@@ -1,0 +1,41 @@
+{
+  [
+  'tops': {
+    priority: 100,
+    items: [
+        {
+      name: 'white bread top',
+      filename: 'white_bread_top.png'
+        }
+      ]
+    },
+  'meat': {
+    priority: 6,
+    items: []
+    },
+  'cheese': {
+    priority: 5,
+    items: []
+    },
+  'vegetables': {
+    priority: 4,
+    items: []
+    },
+  'condiments': {
+    priority: 3,
+    items: []
+    },
+  'spread': {
+    priority: 2,
+    items: []
+    },
+  'other': {
+    priority: 1,
+    items: []
+    },
+  'bottoms': {
+    priority: 0,
+    items: []
+    },
+  ]
+}
